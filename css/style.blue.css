@@ -464,6 +464,7 @@ WORKS / REFERENCES
   position: relative;
   font-size: 50px;
   z-index: 100;
+  color: #fff;
 }
 #detail .buttons {
   text-align: center;
@@ -1303,8 +1304,8 @@ hr {
   border-radius: 0;
 }
 .btn-primary {
-  color: #5091da;
-  background-color: #ffffff;
+  color: #fff;
+  background-color: #5091da;
   border-color: #5091da;
 }
 .btn-primary:hover,
@@ -1312,8 +1313,8 @@ hr {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-  color: #5091da;
-  background-color: #ebebeb;
+  color: #ebebeb;
+  background-color: #2972c3;
   border-color: #2972c3;
 }
 .btn-primary:active,
