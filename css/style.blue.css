@@ -784,6 +784,10 @@ FOOTER
 #contact p.social a.email {
   background-color: #4a7f45;
 }
+
+#contact p.social a.resume {
+  background-color: #a94442;
+}
 @media (max-width: 767px) {
   #contact p.social {
     text-align: center;
